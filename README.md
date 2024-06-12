@@ -10,3 +10,11 @@ Using ML
   4. Select the top few and tune hyperparameters
   5. Select the best model based on desired metrics
 
+
+## Code flow 
+
+### Set up.py 
+Setup.py will find out the constructor file in each and every folder and wherever the constructor is available , it will create a local package 
+- e . - it will loook for Set up.py and than all the folders will be executed as the local folder
+- 
+
