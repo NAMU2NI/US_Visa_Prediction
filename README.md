@@ -18,3 +18,9 @@ Setup.py will find out the constructor file in each and every folder and whereve
 - e . - it will loook for Set up.py and than all the folders will be executed as the local folder
 - 
 
+## DB Setup 
+
+### Mongo DB Setup 
+### Storing Data to Mongo DB
+### Logging Exception Utility 
+### EDA 
