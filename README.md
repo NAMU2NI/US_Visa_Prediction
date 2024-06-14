@@ -20,7 +20,7 @@ Setup.py will find out the constructor file in each and every folder and whereve
 
 ## DB Setup 
 
-### Mongo DB Setup 
-### Storing Data to Mongo DB
-### Logging Exception Utility 
-### EDA 
+1.Mongo DB Setup 
+2.Storing Data to Mongo DB
+3.Logging Exception Utility 
+4.EDA 
